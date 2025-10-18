@@ -13,7 +13,7 @@ In my free time, I try to learn programming concepts that I lack not having a fo
 - [paystack-sdk (js/ts)](https://github.com/gray-adeyi/paystack-sdk)
 - [korapay-sdk (js/ts)](https://github.com/gray-adeyi/korapay-sdk)
 
-I interested in anything that makes me grow as a developer and as a better humain being in general.
+I'm interested in anything that makes me grow as a developer and as a better humain being in general.
 
 You can find me on:
 
