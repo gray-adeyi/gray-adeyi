@@ -4,7 +4,7 @@
 
 I am a self taught developer with python being the language I'm most comfortable in for now. Curiosity and my work experience has also exposed me to other languages like js/ts, dart, go & php.
 
-I currently work at [Bigcommand LLC](https://bigcommand.com/) as a backend developer building the backends of amazing SaaS products with Django and FastAPI.
+<!--I currently work at [Bigcommand LLC](https://bigcommand.com/) as a backend developer building the backends of amazing SaaS products with Django and FastAPI. -->
 
 In my free time, I try to learn programming concepts that I lack not having a formal CS background, trying out programming languages new to me like odin, rust & go and also maintain these open source client SDKs.
 
